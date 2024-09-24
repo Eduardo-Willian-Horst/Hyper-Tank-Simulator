@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 10e3c7e459ca5804b883231b9c271144
+  - enabled: 1
     path: Assets/Scenes/EnemysStatics.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/EnemysMovement.unity
+    guid: 6d2514433dcc7b84697eb0436cb08cab
+  - enabled: 1
+    path: Assets/Scenes/Pvp.unity
+    guid: df77ddab21133344f9c4abe511afd946
   m_configObjects: {}
