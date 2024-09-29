@@ -1,11 +1,10 @@
-# Projeto de Computação Gráfica e Realidade Virtual
+# Hyper Tank Simulator
 
-Este é um projeto desenvolvido em Unity 3D para a disciplina de Computação Gráfica e Realidade Virtual. O projeto consiste em dois cubos que se atiram um no outro. Além da funcionalidade básica solicitada, foram implementadas algumas melhorias para enriquecer a experiência do usuário.
+Este é um projeto desenvolvido em Unity 3D em poucas horas para a disciplina de Computação Gráfica e Realidade Virtual. O projeto consiste em dois cubos que se atiram um no outro. Além da funcionalidade básica solicitada, foram implementadas algumas melhorias para enriquecer a experiência do usuário.
 
 ## Funcionalidades
-- **Interação entre Cubos**: Dois cubos podem ser movidos e atirados.
+- **Interação entre Cubos**: Dois cubos que podem ser movidos e atirados.
 - **Efeitos Visuais**: Adicionei efeitos de partículas para tornar a interação mais dinâmica.
-- **Interface de Usuário**: Uma HUD simples para mostrar o status do jogo (pontos, tempo, etc.).
 - **Build do Projeto**: Uma versão compilada do projeto está disponível na pasta `Build`.
 
 ## Tecnologias Utilizadas
